@@ -1,2 +1,6 @@
 # Useful-linux-terminal
-Linux Terminal Commands that you can type out.
+
+## For Loops
+A simple for loop.
+
+    $ for i in {1..5}; do mkdir "Chapter_$i"; done
